@@ -1,0 +1,6 @@
+{
+  "name": "CrediMaster - Sistema de Gestión de Créditos",
+  "description": "Sistema integral de gestión de créditos, clientes, amortizaciones y pagos con arquitectura MVC, roles de administrador y cliente, validaciones y recibos en PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
